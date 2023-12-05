@@ -16,7 +16,7 @@ To use the script, run it from the command line with the following syntax:
 
 ```bash
 python script.py input_file output_file
-
+```
 ## Requirements
 
 Python 3.x
@@ -27,4 +27,4 @@ Replace input_file with the path to your hex-encoded file and output_file with t
 
 ```bash
 python script.py input.hex output.txt
-
+```
